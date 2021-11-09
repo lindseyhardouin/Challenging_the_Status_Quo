@@ -30,3 +30,55 @@ This project leverages python 3.7 with the following packages:
 **[Matplotlib Python](https://matplotlib.org/)** - comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 ---
+
+## Installation Guide
+
+Before running the application first install the following dependencies:
+
+1) OS Library is included with Anaconda so no need to install.<br>
+
+2) Requests Library is included with Anaconda so no need to install.<br>
+
+3) Pandas Library is included with Anaconda so no need to install.<br>
+
+4) In order to use the dotenv library, you must install it by writing this command in your terminal:
+
+```python
+pip install python-dotenv
+```
+
+To verify installation, type the following command in your terminal:
+
+```python
+conda list dotenv
+```
+
+A version number should appear, as follows:
+
+![dotenv library version](conda_list_dotenv.png)
+
+4) In order to use the Alpaca Trade API, you must install it by typing this command in your terminal:
+
+```python
+pip3 install alpaca-trade-api
+```
+
+To verify installation, type the following command in your terminal:
+
+```python
+conda list alpaca
+```
+
+A version number should appear, as follows:
+
+![alpaca api version](conda_list_alpaca.png)
+
+5) In order to use the MCForecastTools Library, all you have to do is copy the MCForecastTools.py library file into your repository or project.
+
+6) Numpy Library is included with Anaconda so no need to install.<br>
+
+7) pathlib is included with Anaconda so no need to install.<br>
+
+8) Matplotlib is included with Anaconda so no need to install.<br>
+
+The installation of libraries ans dependencies is now complete.
