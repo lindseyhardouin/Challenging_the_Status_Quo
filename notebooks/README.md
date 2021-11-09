@@ -119,3 +119,21 @@ We will conclude our analysis by creating a dataframe comparing each portfolio's
 
 ![Comparison Dataframe](comparison_dataframe.png)
 
+---
+
+## Contributors
+
+**Contributor:** Jacob Rougeau
+**Email Address:** 
+
+**Contributor:** Lindsey Hardouin
+**Email Address:**
+
+**Contributor:** Tony Landero<br>
+**Email Adress:** mr.landero@gmail.com<br>
+
+---
+
+## License
+
+MIT
