@@ -82,3 +82,31 @@ A version number should appear, as follows:
 8) Matplotlib is included with Anaconda so no need to install.<br>
 
 The installation of libraries ans dependencies is now complete.
+
+---
+
+## Usage
+
+To use the loan qualifier application simply clone the repository and run the **consolidated.ipynb** file with:
+
+```python
+python consolidated.ipynb
+```
+
+For best results, it is recommended to open as a Jupyter Notebook.
+
+There are 7 Jupyter Notebooks comprising the application. They include the 6 different portfolio notebooks, and the main results notebook named consolidated.ipynb
+
+We make our calculations in the respective portfilio notebook, and then consolidate them in consolidated.ipynb
+
+In order to test different results, go to the specific notebook you are interested in adjusting and try different timeframes, tickers, and years of Monte Carlo Simulations. 
+
+This version of the application will outline the results of data collected from the Alpaca Trade API between Jan. 1, 2018 and Nov. 5, 2021. 
+
+We have 6 portfolios: Bond Portfolio, Stock Portfolio, Real Estate Portfolio, Cryptocurrency Portfolio, ETF Portfolio, and a Diversified Portfolio.
+
+Once calculations were finalized, we can see the analysis below:
+
+Consolidated Cumulative Returns:
+
+![Consolidated Cumulative Returns](consolidated_cumulative_returns.png)
