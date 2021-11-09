@@ -105,8 +105,17 @@ This version of the application will outline the results of data collected from 
 
 We have 6 portfolios: Bond Portfolio, Stock Portfolio, Real Estate Portfolio, Cryptocurrency Portfolio, ETF Portfolio, and a Diversified Portfolio.
 
-Once calculations were finalized, we can see the analysis below:
+Once calculations are finalized, we can see the analysis below:
 
 Consolidated Cumulative Returns:
 
 ![Consolidated Cumulative Returns](consolidated_cumulative_returns.png)
+
+The next apart of the analysis compares the historical returns of the portfolios:
+
+![Consolidated Annual Returns](consolidated_annual_returns.png)
+
+We will conclude our analysis by creating a dataframe comparing each portfolio's Sharpe Ratio, Average Annual Return, and Annualized Standard Deviation
+
+![Comparison Dataframe](comparison_dataframe.png)
+
