@@ -71,7 +71,7 @@ conda list alpaca
 
 A version number should appear, as follows:
 
-![alpaca api version](conda_list_alpaca.png)
+![alpaca api version](images/conda_list_alpaca.png)
 
 5) In order to use the MCForecastTools Library, all you have to do is copy the MCForecastTools.py library file into your repository or project.
 
@@ -109,25 +109,25 @@ Once calculations are finalized, we can see the analysis below:
 
 Consolidated Cumulative Returns:
 
-![Consolidated Cumulative Returns](consolidated_cumulative_returns.png)
+![Consolidated Cumulative Returns](images/consolidated_cumulative_returns.png)
 
 The next apart of the analysis compares the historical returns of the portfolios:
 
-![Consolidated Annual Returns](consolidated_annual_returns.png)
+![Consolidated Annual Returns](images/consolidated_annual_returns.png)
 
 We will conclude our analysis by creating a dataframe comparing each portfolio's Sharpe Ratio, Average Annual Return, and Annualized Standard Deviation
 
-![Comparison Dataframe](comparison_dataframe.png)
+![Comparison Dataframe](images/comparison_dataframe.png)
 
 ---
 
 ## Contributors
 
-**Contributor:** Jacob Rougeau
-**Email Address:** 
+**Contributor:** Jacob Rougeau<br>
+**Email Address:** <br>
 
-**Contributor:** Lindsey Hardouin
-**Email Address:**
+**Contributor:** Lindsey Hardouin<br>
+**Email Address:** <br>
 
 **Contributor:** Tony Landero<br>
 **Email Adress:** mr.landero@gmail.com<br>
