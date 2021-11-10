@@ -55,7 +55,7 @@ conda list dotenv
 
 A version number should appear, as follows:
 
-![dotenv library version](conda_list_dotenv.png)
+![dotenv library version](images/conda_list_dotenv.png)
 
 4) In order to use the Alpaca Trade API, you must install it by typing this command in your terminal:
 
